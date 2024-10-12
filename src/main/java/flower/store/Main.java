@@ -5,19 +5,5 @@ public class Main {
         Flower flower = new Flower();
         flower.setPrice(100);
         flower.setFlowerType(FlowerType.ROSE);
-
-        FlowerBucket flowerBucket = new FlowerBucket();
-
-        FlowerPack flowerPack = new FlowerPack(flower, 5);
-        flowerBucket.addFlowerPack(flowerPack);
-
-        FlowerPack flowerPack2 = new FlowerPack(flower, 10); 
-        flowerBucket.addFlowerPack(flowerPack2);
-
-        System.out.println(flowerBucket.getPrice());
-
-        flower.setPrice(10);
-
-        System.out.println(flowerBucket.getPrice());
     }
 }
