@@ -23,7 +23,8 @@ public final class Store {
     }
 
     /**
-     * Searches for flower buckets in the store that contain the specified flower.
+     * Searches for flower buckets in the store that contain
+     * the specified flower.
      *
      * @param flower the flower to search for in the buckets
      * @return a list of flower buckets that match the search criteria

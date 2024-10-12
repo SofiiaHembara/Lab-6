@@ -6,8 +6,10 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 /**
- * Represents a flower with specific properties like color, type, price, and sepal length.
- * This class is intended to be extended by specific types of flowers (e.g., Rose, Tulip).
+ * Represents a flower with specific properties like
+ * color, type, price, and sepal length.
+ * This class is intended to be extended
+ * by specific types of flowers (e.g., Rose, Tulip).
  */
 @Getter
 @Setter

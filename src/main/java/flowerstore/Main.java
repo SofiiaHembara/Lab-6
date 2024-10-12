@@ -3,7 +3,7 @@ package flowerstore;
 /**
  * Main class to demonstrate the functionality of the flower store.
  */
-public class Main {
+public final class Main {
 
     /**
      * Private constructor to prevent instantiation of utility class.

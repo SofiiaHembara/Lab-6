@@ -23,10 +23,10 @@ public class FlowerPack {
     private int count;
 
     /**
-     * Constructs a new flower pack with the specified flower type and count.
+     * Constructs a FlowerPack with the specified flower and count.
      *
-     *  flower the type of flower in the pack
-     *  count the number of flowers in the pack
+     * @param flower the type of flower in the pack
+     * @param count  the number of flowers in the pack
      */
     public FlowerPack(final Flower flower, final int count) {
         this.flower = new Flower(flower);
