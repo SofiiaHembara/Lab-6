@@ -1,4 +1,5 @@
-package lab5;
+package flowerstore;
+
 public class Tulip extends Flower {
-    
+
 }

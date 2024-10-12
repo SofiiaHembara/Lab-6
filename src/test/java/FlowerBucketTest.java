@@ -1,10 +1,10 @@
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import lab5.Flower;
-import lab5.FlowerBucket;
-import lab5.FlowerPack;
-import lab5.Rose;
+import flowerstore.Flower;
+import flowerstore.FlowerBucket;
+import flowerstore.FlowerPack;
+import flowerstore.Rose;
 
 import org.junit.jupiter.api.Assertions;
 

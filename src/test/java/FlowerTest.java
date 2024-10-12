@@ -1,16 +1,12 @@
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import lab5.Flower;
-import lab5.FlowerColor;
+import flowerstore.Flower;
+import flowerstore.FlowerColor;
 
 import org.junit.jupiter.api.Assertions;
 
-//import org.junit.jupiter.api.BeforeEach;
-//import org.junit.jupiter.api.Test;
-
 import java.util.Random;
-//import org.junit.jupiter.api.Assertions;
 
 public class FlowerTest {
     private static final Random RANDOM_GENERATOR = new Random();
